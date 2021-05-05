@@ -1,0 +1,13 @@
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\bin\Debug\netcoreapp3.1\MatchesPlay.exe
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\bin\Debug\netcoreapp3.1\MatchesPlay.deps.json
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\bin\Debug\netcoreapp3.1\MatchesPlay.runtimeconfig.json
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\bin\Debug\netcoreapp3.1\MatchesPlay.runtimeconfig.dev.json
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\bin\Debug\netcoreapp3.1\MatchesPlay.dll
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\bin\Debug\netcoreapp3.1\MatchesPlay.pdb
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\obj\Debug\netcoreapp3.1\MatchesPlay.csprojAssemblyReference.cache
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\obj\Debug\netcoreapp3.1\MatchesPlay.AssemblyInfoInputs.cache
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\obj\Debug\netcoreapp3.1\MatchesPlay.AssemblyInfo.cs
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\obj\Debug\netcoreapp3.1\MatchesPlay.csproj.CoreCompileInputs.cache
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\obj\Debug\netcoreapp3.1\MatchesPlay.dll
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\obj\Debug\netcoreapp3.1\MatchesPlay.pdb
+F:\DoJob\CSharpSource\Doing\MatchesPlay\MatchesPlay\obj\Debug\netcoreapp3.1\MatchesPlay.genruntimeconfig.cache
