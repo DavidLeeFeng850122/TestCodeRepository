@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\DoJob\\CSharpSource\\Doing\\MatchesPlay\\MatchesPlay\\MatchesPlay.csproj",
+      "projectUniqueName": "F:\\DoJob\\CSharpSource\\Doing\\TestCodeRepository\\MatchesPlay\\MatchesPlay.csproj",
       "projectName": "MatchesPlay",
-      "projectPath": "F:\\DoJob\\CSharpSource\\Doing\\MatchesPlay\\MatchesPlay\\MatchesPlay.csproj",
+      "projectPath": "F:\\DoJob\\CSharpSource\\Doing\\TestCodeRepository\\MatchesPlay\\MatchesPlay.csproj",
       "packagesPath": "C:\\Users\\DavidLee\\.nuget\\packages\\",
-      "outputPath": "F:\\DoJob\\CSharpSource\\Doing\\MatchesPlay\\MatchesPlay\\obj\\",
+      "outputPath": "F:\\DoJob\\CSharpSource\\Doing\\TestCodeRepository\\MatchesPlay\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
